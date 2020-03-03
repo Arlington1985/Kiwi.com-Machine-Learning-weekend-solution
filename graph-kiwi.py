@@ -3,7 +3,6 @@
 # author          :Rovshan Musayev
 # date            :20171001
 # version         :1.0
-# usage           :python3 logmanager.py
 # notes           :Polynomial regression method was used to predict function 
 # python_version  :3.5.3
 
